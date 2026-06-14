@@ -15,6 +15,15 @@ Analisis ini dilakukan untuk menjawab beberapa pertanyaan bisnis berikut:
 * Bagaimana tren revenue dari bulan ke bulan?
 * Berapa rata-rata nilai transaksi pelanggan?
 
+## 📁 Dataset
+
+Dataset berisi 3.547 transaksi penjualan coffee shop yang mencakup:
+
+- Nama produk
+- Metode pembayaran
+- Waktu transaksi
+- Tanggal transaksi
+- Revenue
 
 ## 🛠 Tools yang Digunakan
 
